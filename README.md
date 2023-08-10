@@ -4,7 +4,7 @@
 
 ```bash
 # clone the project
-git clone git@github.com:wiktor-falek/cards.git
+git clone git@github.com:YELrhilassi/Express_React.git
 
 # run install command
 npm install
